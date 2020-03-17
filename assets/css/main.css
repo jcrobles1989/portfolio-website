@@ -3543,19 +3543,6 @@ input, select, textarea {
 			filter: blur(2px);
 		}
 
-	#banner .outter {
-		margin: 0 auto;
-		width: 55em;
-	}
-
-	#banner .outter p{
-		text-transform: none;
-	}
-
-	#banner .outter #skills{
-		text-transform: uppercase;
-	}
-
 /* Wrapper */
 
 	#wrapper > header {
